@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/damier.png</file>
+        <file>icons/icon16_hand.png</file>
+        <file>icons/icon16_cursor.png</file>
+        <file>icons/icon16-zoom.png</file>
+        <file>cursors/curs_zoomout.png</file>
+        <file>cursors/curs_zoomin.png</file>
+        <file>cursors/curs_zoomlimit.png</file>
+    </qresource>
+</RCC>
